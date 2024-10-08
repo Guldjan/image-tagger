@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageTaggerApp", "ImageTaggerApp\ImageTaggerApp.csproj", "{D3A28656-EB96-4C7B-9C61-4C5562266862}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3A28656-EB96-4C7B-9C61-4C5562266862}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3A28656-EB96-4C7B-9C61-4C5562266862}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3A28656-EB96-4C7B-9C61-4C5562266862}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3A28656-EB96-4C7B-9C61-4C5562266862}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E016390D-2A14-4F6D-9A78-638A7A9E8298}
+	EndGlobalSection
+EndGlobal
